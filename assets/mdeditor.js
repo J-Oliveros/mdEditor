@@ -29985,7 +29985,7 @@ catch(err) {
 
 ;
           if (!runningTests) {
-            require("mdeditor/app")["default"].create({"repository":"https://github.com/adiwg/mdEditor","defaultProfileId":"org.adiwg.profile.full","name":"mdeditor","version":"1.5.0-beta.4+3ae796b8"});
+            require("mdeditor/app")["default"].create({"repository":"https://github.com/adiwg/mdEditor","defaultProfileId":"org.adiwg.profile.full","name":"mdeditor","version":"1.5.0-beta.4+07c244c1"});
           }
         
 //# sourceMappingURL=mdeditor.map
